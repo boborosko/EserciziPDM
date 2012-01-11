@@ -1,0 +1,19 @@
+<compilation>
+  
+    <brano id="1">
+         <titolo>Viva La Vida</titolo>
+         <autore>Coldplay</autore>
+         <genere>Pop</genere>
+          </brano>
+   <brano id="2" >
+        <titolo>If I Had a Gun</titolo>
+        <autore>Noel Gallagher</autore>
+        <genere>Brit Pop</genere>
+         </brano>
+   <brano id="3">
+        <titolo>Uprising</titolo>
+        <autore>Muse</autore>
+        <genere>Alternative Rock</genere>
+        </brano>    
+        
+        </compilation>       
