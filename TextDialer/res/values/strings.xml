@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">TextDialer</string>
+    <string name="app_name">TextDialer</string>
+    <string name="edit">Inserisci il numero</string>
+    <string name="dial">Dial</string>
+    <string name="call">CAll</string>
+</resources>
