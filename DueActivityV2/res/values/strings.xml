@@ -4,5 +4,6 @@
     <string name="hello">Main Activity</string>
     <string name="app_name">DueActivityV2</string>
     <string name="edit">Inserisci il testo qui</string>
+    <string name="start">Start</string>
 
 </resources>
