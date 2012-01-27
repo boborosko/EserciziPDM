@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Image">Image</string>
+    <string name="app_name">SwitchImage</string>
+    <string name="toggle">ToggleButton</string>
+   
+
+</resources>
