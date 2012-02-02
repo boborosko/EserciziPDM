@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">ChatActivity</string>
+    <string name="app_name">Chat</string>
+    <string name="button">Send</string>
+    <string name="edit">Edit</string>
+
+</resources>
