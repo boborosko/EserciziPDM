@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">ChatActivity</string>
+    <string name="app_name">ChatV2</string>
+    <string name="btn">Send</string>
+    <string name="edit">Text</string>
+    <string name="dati">InserireDati</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    
+</resources>
